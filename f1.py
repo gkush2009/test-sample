@@ -6,3 +6,5 @@ print(a+b)
 print("v2")
 print(a-b)
 
+print("v3")
+print(a*b)
